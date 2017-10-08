@@ -1,4 +1,4 @@
-package com.celes.netama.server;
+package com.celes.metropolitan.server;
 
 /**
  * Created by changsu on 23/05/2017.
